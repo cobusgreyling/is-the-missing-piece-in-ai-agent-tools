@@ -1,3 +1,5 @@
+![Grok Build Workflows](assets/header.jpg)
+
 # Is The Missing Piece in AI Agent Tools?
 
 > Grok Build can capture workflows so they can be reused & shared…
